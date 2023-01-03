@@ -37,12 +37,8 @@
 ---------
 #### FITUR 📍
 | Fitur | Check |
-|--------|--------|
-| 
-| **Game Rpg** |[✔️](https://chat.whatsapp.com/EAR7T7H59vOJz8KcwMP179) |
-| **Sticker** |[✔️](https://chat.whatsapp.com/EAR7T7H59vOJz8KcwMP179) |
-| **Game** |[✔️](https://chat.whatsapp.com/EAR7T7H59vOJz8KcwMP179) |
-| **Quotes** |[✔️](https://chat.whatsapp.com/EAR7T7H59vOJz8KcwMP179) |
+|
+| **My BoTz** |[✔️](https://wa.me/6287787498986) |
 ---------
 
 | BuildPack | LINK |
