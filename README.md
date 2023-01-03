@@ -36,7 +36,7 @@
 | **Multi Device** |[✔️](https://chat.whatsapp.com/EAR7T7H59vOJz8KcwMP179) |
 ---------
 #### FITUR 📍
-| **My BoTz** |[✔️](https://wa.me/6287787498986)
+ **My BoTz** [Click](https://wa.me/6287787498986)
 ---------
 
 | BuildPack | LINK |
